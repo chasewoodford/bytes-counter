@@ -186,7 +186,7 @@ public static IEnumerable<byte> ToVarint32(int value)
 ```
 
 **Part 3:**
-Append search input with phrase like "calories
+Append search input with phrase like "calories"
 
 **Part 4:**
 Scrape results to get an average caloric number for whatever is in the image
